@@ -1,7 +1,13 @@
 # No-mas-grupos-random
 
 <p align="justify">
-DataSquad crea perfiles donde destacas tus habilidades dominantes y publicas la destreza técnica que le falta al equipo. El algoritmo hace match con el estudiante ideal. Al final, el sistema de calificación de compañeros evalúa el compromiso real de cada uno, asegurando el proyecto y filtrando a los clásicos estudiantes que no aportan al equipo.
+DataSquad es una plataforma diseñada para optimizar la formación de equipos académicos mediante perfiles estudiantiles inteligentes.
+
+Cada estudiante puede registrar sus habilidades técnicas, fortalezas y áreas de desempeño. Cuando un equipo necesita complementar ciertas capacidades, la plataforma recomienda estudiantes compatibles según sus habilidades, experiencia y nivel de compromiso en proyectos anteriores.
+
+Además, el sistema incorpora evaluaciones colaborativas entre compañeros para analizar aspectos como responsabilidad, participación, comunicación y cumplimiento dentro de los trabajos grupales.
+
+El objetivo es crear equipos más equilibrados, eficientes y organizados, mejorando la experiencia de colaboración académica.
 
 ### Problema que resuelve
 <p align="justify">
