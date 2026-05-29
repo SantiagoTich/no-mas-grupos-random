@@ -1,4 +1,4 @@
-# No-mas-grupos-random
+# DataSquad
 
 <p align="justify">
 DataSquad es una plataforma diseñada para optimizar la formación de equipos académicos mediante perfiles estudiantiles inteligentes.
